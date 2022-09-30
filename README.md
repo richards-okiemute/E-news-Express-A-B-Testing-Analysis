@@ -1,0 +1,2 @@
+# E-news-Express-A-B-Testing-Analysis
+E-News Express is an online news portal company which serves her subscribers with online news content. Visitors accessing the company's website perform different actions based on their personal interest. The company intends to analyze these interests in order to find out which feature will be effective or not. They plan on analyzing users' responses to two (2) variants of a product to decide which is more effective. They intend to discover which feature attracts users interest based on a particular metric using A/B Testing methodology.
